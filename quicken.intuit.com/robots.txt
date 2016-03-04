@@ -1,0 +1,23 @@
+# robots.txt for http://quicken.intuit.com/
+
+User-agent: *
+Disallow: /affiliates/
+Disallow: /clearcookies.html
+Disallow: /commerce/
+Disallow: /content/
+Disallow: /error
+Disallow: /google
+Disallow: /in-product/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /lp/
+Disallow: /microsite/
+Disallow: /qpo/
+Disallow: /registration/
+Disallow: /retail-pages/
+Disallow: /search
+Disallow: /sitemap.jsp
+Disallow: /testing
+Disallow: /unlock
+
+Sitemap: http://quicken.intuit.com/sitemap.gz

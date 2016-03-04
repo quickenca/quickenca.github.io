@@ -1,0 +1,1 @@
+var time1 =new Date().getTime();
